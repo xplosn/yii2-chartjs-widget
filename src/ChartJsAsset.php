@@ -20,7 +20,7 @@ class ChartJsAsset extends AssetBundle
     public $sourcePath = null;
 
     public $js = [
-        'https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.bundle.min.js'
+        'https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.min.js'
     ];
 
     public $depends = [
